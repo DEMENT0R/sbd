@@ -1,0 +1,16 @@
+{
+    "name": "dement0r/sbd",
+    "description": "Simple Bootstrap 5 dashboard",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dement0r\\Sbd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maxim Bezrukavnikov"
+        }
+    ],
+    "require": {}
+}
